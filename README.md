@@ -1,10 +1,4 @@
-# Features
-
-- No fees (besides ETH tx costs)
-
-- No trusted third party
-
-- Pseudoanonymous (addresses only)
+# TRUFFLE ABANDONED - SEE REFLECTION.MD
 
 ## Design Doc
 
